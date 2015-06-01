@@ -9,3 +9,6 @@ This folder contains files that:
 
 ### Interactive Web Application
 This folder contains a user interface file and a server file written using the R Shiny framework.
+
+### Web App Demo
+This short movie shows a demonstration of the web application.
